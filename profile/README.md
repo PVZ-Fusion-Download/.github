@@ -5,6 +5,8 @@
 
 ![](https://truth.bahamut.com.tw/s01/202409/30721f4145729ffe86ea145bc7531f0d.JPG)
 
+
+
 ### What is PVZ Fusion?
 PVZ Fusion is an innovative fan-made modification of the beloved Plants vs Zombies game, combining the classic tower defense gameplay with a new plant fusion system. This fusion feature allows players to create powerful hybrid plants, adding strategic depth to the game as they defend against waves of dynamic zombies. With unlimited sun resources, new game modes, and an engaged community, PVZ Fusion redefines plant defense for both newcomers and seasoned players.
 
