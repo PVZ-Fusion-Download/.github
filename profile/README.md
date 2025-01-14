@@ -1,7 +1,7 @@
 # PVZ Fusion Download
 ## Plants vs Zombies: Fusion Edition - Where Strategy Meets Plant Evolution
 
-## [Download Play PVZ Fusion Now!](https://pvzfusion.io)
+## [Download Play PVZ Fusion Now!](https://pvzfusion.io?utm=github)
 
 ![](https://truth.bahamut.com.tw/s01/202409/30721f4145729ffe86ea145bc7531f0d.JPG)
 
